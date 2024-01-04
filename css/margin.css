@@ -1,0 +1,30 @@
+.purple{
+    background-color:#AC33E8 ;
+    width: 100%;
+    height: 60px;
+    margin-bottom: 50px;
+}
+.blue{
+    background-color: #00AFFA;
+    width: 100%;
+    height: 60px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+/* between purple and blue --> the bigger one=70px */
+.pink{
+    background-color: #FA3EF7;
+    width: 100%;
+    height: 60px;
+    margin-top: 70px;
+    margin-bottom: 20px;
+
+}
+/* between blue and pink--> one of them=70px */
+.gray{
+    background-color: #757575;
+    width: 100%;
+    height: 60px;
+    margin-top: -10px;
+}
+/* between pink and gray --> 20-10=10px */
